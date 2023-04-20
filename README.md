@@ -8,3 +8,6 @@ Stock Management Application is a simple, user-friendly JavaFX-based application
 -MySQL database integration for secure and reliable data storage.  
 
 ## User flow:
+
+![User Flow GIF 1](/Screenshots/Items.gif)
+User Flow 1: Adding a new item to the inventory
