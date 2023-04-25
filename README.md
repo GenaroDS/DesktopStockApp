@@ -11,7 +11,6 @@ Stock Management Application is a simple, user-friendly JavaFX-based application
 
 Signing up and loggin in:  
 ![User Flow GIF 1](/Screenshots/SignUp&LogIn.gif)    
-
 Items management grid view:  
 ![User Flow GIF 2](/Screenshots/Items.gif)  
 
