@@ -12,7 +12,7 @@ Stock Management Application is a simple, user-friendly JavaFX-based application
 ![User Flow GIF 1](/Screenshots/SignUp&LogIn.gif)
 ![User Flow GIF 2](/Screenshots/Items.gif)
 
-## Database:
+### Changes refelcted on database:
 
 ![SqlItems](/Screenshots/SqlItems.png)
 ![SqlUsers](/Screenshots/SqlUsers.png)
