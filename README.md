@@ -1,11 +1,6 @@
 # Stock Management Application
-Stock Management Application is a simple, user-friendly JavaFX-based application that allows users to manage their inventory with ease. The application is designed to work with MySQL databases, allowing users to create, modify, and delete items while keeping track of their inventory. Users can also sort and filter items to find specific products quickly. It item corresponds to one user.
+Stock Management Application is a simple, user-friendly JavaFX-based application that allows users to manage their inventory with ease. The application is designed to work with MySQL databases, allowing users to create, modify, and delete items while keeping track of their inventory, and each item corresponds to one specific user. Users can also sort items to find specific products.
 
-## Features:  
--Simple and intuitive user interface.  
--Add, modify, and delete items in the inventory.  
--Sort and filter items to find products easily.  
--MySQL database integration for secure and reliable data storage.  
 
 ## User flow:  
 
