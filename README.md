@@ -14,3 +14,5 @@ Items management grid view:
 ![SqlItems](/Screenshots/SqlItems.png)
 ![SqlUsers](/Screenshots/SqlUsers.png)
 
+## Conclution:
+DesktopStockApp is a user-friendly stock management application that enables user account creation, full crud functionality for item management, and persistence through the use of mysql.
