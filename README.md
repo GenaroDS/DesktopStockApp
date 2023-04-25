@@ -7,13 +7,13 @@ Stock Management Application is a simple, user-friendly JavaFX-based application
 -Sort and filter items to find products easily.  
 -MySQL database integration for secure and reliable data storage.  
 
-## User flow:
+## User flow:  
 
-Signing up and loggin in:
-![User Flow GIF 1](/Screenshots/SignUp&LogIn.gif)  
+Signing up and loggin in:  
+![User Flow GIF 1](/Screenshots/SignUp&LogIn.gif)    
 
-Items management grid view:
-![User Flow GIF 2](/Screenshots/Items.gif)
+Items management grid view:  
+![User Flow GIF 2](/Screenshots/Items.gif)  
 
 ### Changes reflected in the database:
 
